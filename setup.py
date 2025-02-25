@@ -8,7 +8,7 @@ setup(
     description="A Telegram bot for sending emails with customizable settings.",
     long_description=open("README.md", "r", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/valhallabot",
+    url="https://github.com/valhalla505/valhallabot",
     packages=find_packages(),
     install_requires=[
         "pyTelegramBotAPI",
